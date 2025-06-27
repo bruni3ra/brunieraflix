@@ -1,11 +1,12 @@
 *{
     margin: 0px;
     padding: 0px;
+    color: red;
 }
 
 
 header{
-    color: red;
+    
     background-color: red;
     color: rgb(46, 5, 5);
     font-size: 25px;
