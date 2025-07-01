@@ -31,3 +31,8 @@ header{
 img{
     height: 200px;
 }
+
+.categotia-videos{
+    display: flex;
+    
+}
