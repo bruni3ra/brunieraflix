@@ -32,7 +32,7 @@ img{
     height: 200px;
 }
 
-.categotia-videos{
+.categoria-videos{
     display: flex;
     overflow-x: auto;
     gap: 10px;
