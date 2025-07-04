@@ -37,3 +37,9 @@ img{
     overflow-x: auto;
     gap: 10px;
 }
+
+.boasvindas{
+    background-color: white;
+    text-align: center;
+    font-size: 20px;
+}
